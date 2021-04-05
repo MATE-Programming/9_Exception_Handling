@@ -1,3 +1,4 @@
+![alt MATE Programming Lab](https://github.com/MATE-Programming/9_Exception_Handling/blob/main/lab_9.svg?raw=true)
 # Практическое задание на тему File Handling
 
 
